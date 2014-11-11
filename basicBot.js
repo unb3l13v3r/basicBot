@@ -223,7 +223,7 @@
             commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
-                OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleOPlist.json"
+                OP: "https://rawgit.com/unb3l13v3r/basicBot-customization/patch-1/blacklists/ExampleOPlist.json"
             }
         },
         room: {
